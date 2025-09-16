@@ -2,6 +2,6 @@ public class Sample
 {
 	public static void main(String args[])
 	{
-		System.out.print("Mahitha Reddy");
+		System.out.print("Mahithaa Reddy");
 	}
 }
